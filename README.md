@@ -8,7 +8,6 @@
 </div>
 
 ## **Stack**
-----
 ### *Language*
 ##### Used as the main
 ![Python](https://img.shields.io/badge/python-9cf?style=for-the-badge&logo=python)
@@ -17,7 +16,6 @@
 ![HTML](https://img.shields.io/badge/HTML-ffe000?style=for-the-badge&logo=HTML5)
 ![SQL](https://img.shields.io/badge/SQL-ffe000?style=for-the-badge&logo=oracle)
 
-<br>
 
 ### *Framework*
 ##### Used as the main
@@ -25,7 +23,6 @@
 ##### Used at least once
 ![CSS](https://img.shields.io/badge/CSS-ffe000?style=for-the-badge&logo=tailwindcss)
 
-<br>
 
 ### *Tool*
 ##### Used as the main
@@ -33,16 +30,13 @@
 ##### Used at least once
 ![pycharm](https://img.shields.io/badge/Pycharm-ffe000?style=for-the-badge&logo=pycharm)
 
-<br>
 
 ### *OS*
 ![Windows](https://img.shields.io/badge/Windows-9cf?style=for-the-badge&logo=Windows)
 
 
-<br>
 
 ## **Education & Class**
----
 ### *Highest level of education*
 <div style="font-size:20px"> 창원대학교(Changwon National University) </div>
 메카트로닉스공학부 제어계측공학 전공
