@@ -10,31 +10,33 @@
 ## **Stack**
 ### *Language*
 ##### Used as the main
-![Python](https://img.shields.io/badge/python-9cf?style=for-the-badge&logo=python)
+[![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python)](https://github.com/ElyaSetinal)
 ##### Used at least once
-![C](https://img.shields.io/badge/C-ffe000?style=for-the-badge&logo=C)
-![HTML](https://img.shields.io/badge/HTML-ffe000?style=for-the-badge&logo=HTML5)
-![SQL](https://img.shields.io/badge/SQL-ffe000?style=for-the-badge&logo=oracle)
-
+[![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C)](https://github.com/ElyaSetinal)
+[![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5)](https://github.com/ElyaSetinal)
+[![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=oracle)](https://github.com/ElyaSetinal)
+<br>
 
 ### *Framework*
 ##### Used as the main
-![Django](https://img.shields.io/badge/Django-9cf?style=for-the-badge&logo=django)
+[![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django)](https://github.com/ElyaSetinal)
 ##### Used at least once
-![CSS](https://img.shields.io/badge/CSS-ffe000?style=for-the-badge&logo=tailwindcss)
+[![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=tailwindcss)](https://github.com/ElyaSetinal)
 
+<br>
 
 ### *Tool*
 ##### Used as the main
-![VSCode](https://img.shields.io/badge/VSCode-9cf?style=for-the-badge&logo=visualstudio)
+[![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudio)](https://github.com/ElyaSetinal)
 ##### Used at least once
-![pycharm](https://img.shields.io/badge/Pycharm-ffe000?style=for-the-badge&logo=pycharm)
+[![pycharm](https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm)](https://github.com/ElyaSetinal)
 
+<br>
 
 ### *OS*
-![Windows](https://img.shields.io/badge/Windows-9cf?style=for-the-badge&logo=Windows)
+[![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows)](https://github.com/ElyaSetinal)
 
-
+<br>
 
 ## **Education & Class**
 ### *Highest level of education*
