@@ -23,7 +23,7 @@
 [![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django)](https://github.com/ElyaSetinal)
 ##### Used at least once
 [![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=tailwindcss)](https://github.com/ElyaSetinal)
-[![Apache Spark](https://img.shields.io/badge/[Apache Spark-000000?style=for-the-badge&logo=apachespark)](https://github.com/ElyaSetinal)
+[![Apache Spark](https://img.shields.io/badge/[ApacheSpark-000000?style=for-the-badge&logo=apachespark)](https://github.com/ElyaSetinal)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-000000?style=for-the-badge&logo=scikitlearn)](https://github.com/ElyaSetinal)
 [![Tensorflow](https://img.shields.io/badge/Tensorflow-000000?style=for-the-badge&logo=tensorflow)](https://github.com/ElyaSetinal)
 [![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras)](https://github.com/ElyaSetinal)
